@@ -81,7 +81,7 @@ ul li{
         background-size:cover;
         top:12px;
         left:8px;
-        background-image:url(To-Do-Img/images/unchecked.png);
+        background-image:url(images/unchecked.png);
 
     }
 ul li.checked{
@@ -89,7 +89,7 @@ ul li.checked{
     color:#555;
 }
 ul li.checked::before{
-    background-image:url(To-Do-Img/check.png)
+    background-image:url(images/check.png)
 
 }
 ul li span{
